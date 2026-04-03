@@ -1,4 +1,4 @@
-# ai to navigate the ui
+# audio ai to navigate the ui
 # migrate to event loop and corutine once initial system is in place
 from ml_server.routers.transcribe import transcribe_router
 from ml_server.workers.transcribe import TranscribeWorker
